@@ -1,0 +1,10 @@
+389m4rmjkmdp05p1
+api_secret
+zerodha usernam
+zerodha pass
+2fa qr link
+
+
+
+fyres id: VTU0W1N25D-100
+SECRET: C39M7MIJBV
