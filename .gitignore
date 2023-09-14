@@ -1,0 +1,5 @@
+logs/
+OptionData/
+vendor/
+chromedriver=win64/
+TradeBook/
